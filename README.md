@@ -16,9 +16,9 @@ To be honest,as a data analyst,data cleaning has to be the most critical step; e
 
 ## Goals of Data Cleaning
 
-    1.Handling missing values:dropping the missing values and filling in the missig values.
+    1.Handling missing values:dropping the missing values and filling in the missing values.
 
-    2.changing the data types-parsing dates.
+    2.Changing the data types-parsing dates.
 
     3.Handling inconsistent data entry.
 
@@ -70,6 +70,6 @@ The final cleaned dataset is saved in the file named (Clean Airbnb_data.xlsx).
 
 ## Contributions
 
-If you find any issues or you wold like to contribute, feel free to submit an Issue or Pull Request @IVYMWAI
+If you find any issues or you would like to contribute, feel free to submit an Issue or Pull Request @IVYMWAI
 
 I appreciate your input!
